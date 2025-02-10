@@ -1,0 +1,15 @@
+{
+	"id": "maeveynoggetjokers",
+	"name": "Maevey's Jokers",
+	"display_name": "Maevey's Jokers",
+	"author": ["maeveynogget"],
+	"description": "A handful of (somewhat) balanced jokers!",
+	"prefix": "maeveyn",
+	"main_file": "maeveysjokers.lua",
+	"priority": 0,
+	"badge_colour": "FFA09B",
+	"version": "1.0.0",
+    "dependencies": [
+		"Steamodded (>=1.0.0~)"
+	]
+}
